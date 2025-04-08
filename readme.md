@@ -10,4 +10,4 @@ main.py — the main file that runs the program. It allows you to add new employ
 
 
 # Output:
-![image]()
+![image](https://github.com/mukadasadylbekova/Oop_projects_8/blob/main/images/Screenshot%202025-04-08%20141649.png)
